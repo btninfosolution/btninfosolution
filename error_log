@@ -1,0 +1,434 @@
+[22-Oct-2020 12:07:11 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[22-Oct-2020 12:07:11 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[22-Oct-2020 12:07:54 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[22-Oct-2020 12:07:54 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[22-Oct-2020 12:08:10 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[22-Oct-2020 12:08:10 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Oct-2020 07:08:58 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Oct-2020 07:08:58 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[05-Nov-2020 05:29:18 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[05-Nov-2020 05:29:18 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[05-Nov-2020 05:29:18 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[05-Nov-2020 05:29:18 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:51:52 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:51:52 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:52:16 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:52:16 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:52:19 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:52:19 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:52:46 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:52:46 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:58:33 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 06:58:33 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:03:54 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:03:54 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:03:56 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:03:56 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:03:58 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:03:58 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:08:57 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:08:57 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:09:10 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:09:10 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:21:46 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:21:46 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:24:41 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:24:41 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:25:06 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[09-Nov-2020 07:25:06 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[18-Nov-2020 12:14:23 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[18-Nov-2020 12:14:23 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[18-Nov-2020 12:14:26 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[18-Nov-2020 12:14:26 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[25-Dec-2020 16:26:26 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[25-Dec-2020 16:26:26 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[25-Dec-2020 16:28:52 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[25-Dec-2020 16:28:52 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[25-Dec-2020 16:29:04 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[25-Dec-2020 16:29:04 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[18-Feb-2021 04:26:52 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[18-Feb-2021 04:26:52 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[22-Feb-2021 09:31:18 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[22-Feb-2021 09:31:18 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 15:58:18 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 15:58:18 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 16:33:29 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 16:33:29 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 16:34:29 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 16:34:29 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 16:34:38 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 16:34:38 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 16:34:45 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorExc in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
+[29-Jun-2021 16:34:45 UTC] PHP Fatal error:  Uncaught ErrorException: get_cfg_var() has been disabled for security reasons in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php:42
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'get_cfg_var() h...', '/home/btninfos/...', 42, Array)
+#1 /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php(42): get_cfg_var('xdebug.file_lin...')
+#2 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(172): Symfony\Component\Debug\ExceptionHandler->__construct(true)
+#3 /home/btninfos/public_html/newcrm/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(115): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(Symfony\Component\Debug\Exception\FlattenException))
+#4 /home/btninfos/public_html/newcrm/app/Exceptions/Handler.php(48): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\ in /home/btninfos/public_html/newcrm/vendor/symfony/debug/ExceptionHandler.php on line 42
